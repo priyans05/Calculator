@@ -20,5 +20,5 @@ With this mechanism in place it is easy to add more functionality and extend the
 
 - On the View side the app works with all orientation and screen size. Though there is a localisation issue with numbers in number pad as I am extracting string value with button.currentTitle. But it can be easily resolved by making an enum like Operationkind and hooking it up with the number pad button’s tag property.
 
-Thanks for reading and giving me an opportunity to do this exercise.
+Thanks for reading.
 
