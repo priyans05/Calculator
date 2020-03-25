@@ -22,3 +22,4 @@ With this mechanism in place it is easy to add more functionality and extend the
 
 Thanks for reading.
 
+![Demo](https://github.com/priyans05/Calculator/blob/master/2020-03-25%2015.47.59.gif)
